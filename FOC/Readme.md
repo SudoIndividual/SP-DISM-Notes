@@ -23,7 +23,7 @@ If there are two or more processors it is called **Multicore**.
 
 **Multicore**:
 
-Multicore CPU enable compter to carry out multiple instruction simultaneously( at the same time )
+Multicore CPU enable computer to carry out multiple instruction at the same time
 
 ## Output Device
 E.g of an output device:
