@@ -240,7 +240,7 @@ How quickly can a program be executed is determined by:
 
 ## Arithmetic 
 
-Range: -2n-1 to +2n-1-1
+Range: -2^n-1^ to + 2^n-1^-1
 
 Anything above the range is overflow
 
@@ -263,9 +263,9 @@ Overflow occurs if
 
 For signed integers, the leftmost bit is used to indicate the sign:
 
-•0  for positive
+- 0  for positive
 
-•1  for negative
+- 1  for negative
 
 Signed magnitude – Left most bit is not number used as sign (+/-)
 
