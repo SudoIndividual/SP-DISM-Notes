@@ -435,7 +435,7 @@ network interface card (NIC) is used to create and mediate the connection betwee
 
 - NIC is in a special mode called promiscuous
 
-2.Promiscuous mode – turns off the gatekeeper functions and enables the NIC to process all frames it sees
+2. Promiscuous mode – turns off the gatekeeper functions and enables the NIC to process all frames it sees
 
 3. Promiscuous mode allows the NIC to process all frames it sees
 
