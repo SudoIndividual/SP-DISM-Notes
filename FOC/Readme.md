@@ -120,8 +120,10 @@ Four major PC components:
 ## BIOS/CMOS Fundamentals
 
 BIOS : basic input output system
-Set of instructions located in a chip on the motherboard
-BIOS tells the CPU to perform task like power-on self test( POST ) when power is first applied to the computer.
+
+1. Set of instructions located in a chip on the motherboard
+
+2. BIOS tells the CPU to perform task like power-on self test( POST ) when power is first applied to the computer.
 
 CMOS:
 Configuration of hardware components is store in complementary metal oxides semiconductor (CMOS)
