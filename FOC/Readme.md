@@ -411,8 +411,8 @@ switch reads data in the message, determines which port the destination device i
 
 ## Access points
 1. The heart of a wireless network is the wireless access point (AP) 
-
-2. wireless router is combine of functions of an AP, a switch, and a router
+2. APs operate similarly to a hub without wires
+3. wireless router is combine of functions of an AP, a switch, and a router
 
 ## NIC basics
 
