@@ -6,7 +6,17 @@ Computer function can be broken down into three basic task:
  - Processing ( e.g CPU process instruction from input and send it to the output )
  - Output ( e.g recieve instruction from CPU to perform its task )
 
-![](/Images/1.png)
+![](Images/1.png)
+## Types of computers
+1. Embedded computers  
+
+2. Personal computers  
+
+3. Servers and Enterprise systems  
+
+4. Supercomputers and Grid computers  
+
+5. “Cloud” computing
 ## Input device
 E.g of an input device:
  - Keyboard
