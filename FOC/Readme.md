@@ -95,11 +95,11 @@ All data that goes into or comes out of a computer goes through the motherboard
 ### Data bus
 **Used to carry data signal** from **main memory and CPU vice versa** or from **main memory to input and output devices vice versa**.
 ### Address Bus
-**Used to carry address signals**, eample memory location
+**Used to carry address signals**, example a memory location or port/interface where an input or output device is attached.
 
 ### Control Bus
 
-**Used to carry control signals**, exmple read or write from CPU to memory.
+**Used to carry control signals**, example read or write, from CPU to memory or port/interface.
 
 ### Difference between Address bus and data bus
 Data bus carries the data to be stored, while address bus carries the location to where it should be stored.
