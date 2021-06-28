@@ -120,7 +120,7 @@ Four major PC components:
 ## BIOS/CMOS Fundamentals
 
 BIOS : basic input output system
-BIOS is a is a type of firmware stored on a chip on your motherboard.
+Set of instructions located in a chip on the motherboard
 BIOS tells the CPU to perform task like power-on self test( POST ) when power is first applied to the computer.
 
 CMOS:
