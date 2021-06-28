@@ -150,7 +150,7 @@ Configuration of hardware components is store in complementary metal oxides semi
 
 ## Functional units
 
-###	Primary Memory
+###	Primary memory (also called Main memory)
 1.	32 bits = 8 bytes
 2.	Programs and data must be in the primary memory to be executed
 
