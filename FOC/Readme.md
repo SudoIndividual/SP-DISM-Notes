@@ -203,7 +203,7 @@ A single cycle of operations (instruction cycle or Machine cycle) consist of:
 ### Instructions and Programs: 
 1.	Instructions Specifies an operation and location of its data operands 
 2.	A 32-bit holds one encoded instruction 
-3.	A sequence of instructions executes on after another,constiutes a program
+3.	A sequence of instructions executes one after another,constiutes a program
 4.	Both a program and data its stored in the main memory
 
 ### Instruction Types
