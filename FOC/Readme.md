@@ -37,7 +37,7 @@ Multicore CPU enable computer to carry out multiple instruction at the same time
 
 ## Output Device
 E.g of an output device:
-- Printer
+- Printer 
 -  Monitor
 - Storage device
 - network cards
@@ -446,8 +446,6 @@ network interface card (NIC) is used to create and mediate the connection betwee
 - NIC is in a special mode called promiscuous
 
 2. Promiscuous mode – turns off the gatekeeper functions and enables the NIC to process all frames it sees
-
-3. Promiscuous mode allows the NIC to process all frames it sees
 
 ### NIC Indicator Lights
 1. amber for 100 Mbps and green for 1000 Mbps
