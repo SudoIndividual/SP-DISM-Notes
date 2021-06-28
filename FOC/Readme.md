@@ -410,8 +410,9 @@ switch reads data in the message, determines which port the destination device i
 5. Switches are the preferred device because of these advantages
 
 ## Access points
+1. The heart of a wireless network is the wireless access point (AP) 
 
-1. wireless router is combine of functions of an AP, a switch, and a router
+2. wireless router is combine of functions of an AP, a switch, and a router
 
 ## NIC basics
 
