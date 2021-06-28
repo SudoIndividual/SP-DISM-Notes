@@ -178,7 +178,7 @@ Configuration of hardware components is store in complementary metal oxides semi
 
 ### Control Unit
 1. Memory, ALU and I/O units store and process information and perform input and output operations
-2. The responsibility of the control unit is cooridnate the operation of memory,arithmetic and logic unit, and input or output device.
+2. The responsibility of the control unit is coordinating the operation of memory,arithmetic and logic unit, and input or output device.
 
 ## Computer 
 
